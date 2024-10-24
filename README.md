@@ -6,7 +6,7 @@ For this lab, you will be writing three METHODS in addition to the driver method
 
 Each static method needs to have documentation in this format.<br>
 <i>
-//  name of the method and a brief description<br>
+//  name of the method and a brief description.  Include any methods it relies upon (calls).<br>
 // preconditions:  state the parameters that are being passed and what is expected of them<br>
 // postconditions:  state what is being returned and what type it is.  If there are any special traits of the return value, state it here. </i>
 
